@@ -1,3 +1,7 @@
+---
+icon: flag-checkered
+---
+
 # Quick Start Guide
 
 Welcome to the Reselling Hub! This guide will get you started with the basics of reselling and help you navigate our community resources.

@@ -1,3 +1,7 @@
+---
+icon: power-off
+---
+
 # Introduction
 
 A comprehensive guide for Discord reselling community - covering guides, master lists, and best practices.
