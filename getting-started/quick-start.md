@@ -9,36 +9,40 @@ Reselling is the practice of buying products at a lower price and selling them a
 ## Getting Started
 
 ### 1. Choose Your Niche
-- **Sneakers**: Popular brands like Nike, Adidas, Jordan
-- **Electronics**: Gaming consoles, phones, gadgets
-- **Clothing**: Designer brands, limited releases
-- **Collectibles**: Trading cards, toys, memorabilia
+
+* **Sneakers**: Popular brands like Nike, Adidas, Jordan
+* **Electronics**: Gaming consoles, phones, gadgets
+* **Clothing**: Designer brands, limited releases
+* **Collectibles**: Trading cards, toys, memorabilia
 
 ### 2. Set Your Budget
-- Start small with $100-500
-- Reinvest profits to grow your inventory
-- Keep track of all expenses
+
+* Start small with $100-500
+* Reinvest profits to grow your inventory
+* Keep track of all expenses
 
 ### 3. Research Tools
-- **StockX**: For sneakers and streetwear pricing
-- **eBay**: For market research and selling
-- **GOAT**: Sneaker authentication and sales
-- **Facebook Marketplace**: Local sales
+
+* **StockX**: For sneakers and streetwear pricing
+* **eBay**: For market research and selling
+* **GOAT**: Sneaker authentication and sales
+* **Facebook Marketplace**: Local sales
 
 ### 4. Join Our Discord Community
-- Get real-time price alerts
-- Connect with other resellers
-- Access exclusive guides and tips
-- Share your success stories
+
+* Get real-time price alerts
+* Connect with other resellers
+* Access exclusive guides and tips
+* Share your success stories
 
 ## First Steps Checklist
 
-- [ ] Set up your budget
-- [ ] Choose your niche
-- [ ] Download essential apps
-- [ ] Join our Discord server
-- [ ] Read the beginner's guide
-- [ ] Start with one small purchase
+* [ ] Set up your budget
+* [ ] Choose your niche
+* [ ] Download essential apps
+* [ ] Join our Discord server
+* [ ] Read the beginner's guide
+* [ ] Start with one small purchase
 
 ## Quick Tips
 
@@ -53,10 +57,11 @@ Reselling is the practice of buying products at a lower price and selling them a
 ## Next Steps
 
 Once you've completed this quick start guide, check out:
-- [Beginner's Guide to Reselling](../guides/beginners-guide.md)
-- [Essential Tools](../tools/essential-tools.md)
-- [High-Demand Items List](../master-lists/high-demand-items.md)
 
----
+* [Beginner's Guide to Reselling](../guides/beginners-guide.md)
+* [Essential Tools](broken-reference)
+* [High-Demand Items List](broken-reference)
 
-*Need help? Ask questions in our Discord community or check the [FAQ](../community/faq.md).*
+***
+
+_Need help? Ask questions in our Discord community or check the_ [_FAQ_](broken-reference)_._
