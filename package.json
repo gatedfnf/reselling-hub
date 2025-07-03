@@ -1,0 +1,23 @@
+{
+  "name": "reselling-hub-docs",
+  "version": "1.0.0",
+  "description": "Comprehensive reselling documentation for Discord community",
+  "main": "README.md",
+  "scripts": {
+    "build": "echo 'GitBook documentation ready'",
+    "preview": "echo 'Open README.md to preview content'"
+  },
+  "keywords": [
+    "reselling",
+    "discord",
+    "documentation",
+    "gitbook",
+    "guide"
+  ],
+  "author": "Reselling Hub Community",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/reselling-hub-docs"
+  }
+}
