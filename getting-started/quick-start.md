@@ -63,9 +63,7 @@ Reselling is the practice of buying products at a lower price and selling them a
 Once you've completed this quick start guide, check out:
 
 * [Beginner's Guide to Reselling](../guides/beginners-guide.md)
-* [Essential Tools](broken-reference)
-* [High-Demand Items List](broken-reference)
 
 ***
 
-_Need help? Ask questions in our Discord community or check the_ [_FAQ_](broken-reference)_._
+_Need help? Ask questions in our Discord community._
