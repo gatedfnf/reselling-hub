@@ -14,10 +14,7 @@ A comprehensive guide for Discord reselling community - covering guides, master 
 
 ### Master Lists
 
-* [High-Demand Items List](broken-reference)
-* [Seasonal Products](master-lists/seasonal-products.md)
-* [Trending Categories](master-lists/trending-categories.md)
-* [Supplier Directory](master-lists/supplier-directory.md)
+* [Popmart Master List](master-lists/popmart-master-list.md)
 
 
 
