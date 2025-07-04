@@ -13,3 +13,4 @@
 ## Master Lists
 
 * [Popmart Master List](master-lists/popmart-master-list.md)
+* [Pokémon Master List](master-lists/pokemon-master-list.md)
