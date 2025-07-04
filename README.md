@@ -19,6 +19,7 @@ A comprehensive guide for Discord reselling community - covering guides, master 
 ### Master Lists
 
 * [Popmart Master List](master-lists/popmart-master-list.md)
+* [Pokemon Master List](master-lists/pokemon-master-list.md)
 
 
 

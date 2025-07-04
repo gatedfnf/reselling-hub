@@ -4,6 +4,10 @@ icon: cards-blank
 
 # Pokémon Master List
 
+{% hint style="info" %}
+Last updated: June 30th 2025
+{% endhint %}
+
 | Product Name & Set                               | Product Type             | Release Date | MSRP/Retail ($) | Current Market Price ($) | Est. ROI (%) | Investment Horizon | Investment Thesis Summary                                                                                                  |
 | ------------------------------------------------ | ------------------------ | ------------ | --------------- | ------------------------ | ------------ | ------------------ | -------------------------------------------------------------------------------------------------------------------------- |
 | Black Bolt Booster Bundle                        | Booster Bundle           | Aug 2025     | 26.94           | 67.65                    | 151.1%       | Short (<1 yr)      | Low-cost entry to the new dual special set; offers exposure to the anticipated Black Bolt expansion.                       |
